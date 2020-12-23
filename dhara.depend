@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608738166 source:c:\users\hp\desktop\activation\codeblocks.cbp\dhara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
